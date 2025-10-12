@@ -1,15 +1,9 @@
 #  Electric Go-Kart Project
 
 ### EMCS course project 
-
-
-##  Project Overview
-
-This go-kart project combines **mechanical design**, **electrical power systems**, and **embedded control**.  
-
 ---
 
-Key objectives include:
+## Key objectives include:
 - Designing a compact and robust electric drive system.
 - Implementing efficient power delivery and thermal management.
 - Integrating data acquisition for speed, current, and voltage.
