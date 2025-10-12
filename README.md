@@ -31,8 +31,8 @@ Key objectives include:
 ---
 
 ## Expectations
- **Top Speed (est.)** ~60–80 km/h
- **Weight (est.)**  ~100–120 kg including driver
+- **Top Speed (est.)** ~60–80 km/h
+- **Weight (est.)**  ~100–120 kg including driver
 
 ---
 
