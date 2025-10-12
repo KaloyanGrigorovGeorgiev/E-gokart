@@ -1,11 +1,13 @@
-# ⚡ Electric Go-Kart Project
+#  Electric Go-Kart Project
 
-### Year-End Project — EMCS Course
+### EMCS course project 
 
 
-## 🚀 Project Overview
+##  Project Overview
 
 This go-kart project combines **mechanical design**, **electrical power systems**, and **embedded control**.  
+
+---
 
 Key objectives include:
 - Designing a compact and robust electric drive system.
@@ -15,7 +17,7 @@ Key objectives include:
 
 ---
 
-## ⚙️ Technical Specifications
+##  Technical Specifications
 
 | Component | Description |
 |------------|--------------|
@@ -26,13 +28,13 @@ Key objectives include:
 | **Frame** | Swiss Hutless '95 champion
 | **Cooling** | Passive 
 
+---
+
 ##Expectations
 | **Top Speed (est.)** | ~60–80 km/h
 | **Weight (est.)** | ~100–120 kg including driver
 
 ---
-
-## ⚡ Electrical System Overview
 
 ### Main Components
 - **Battery Pack (72V 80Ah)** — primary energy source.
