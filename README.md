@@ -33,6 +33,6 @@
 ### Main Components
 - **Battery Pack (72V 80Ah)** — primary energy source.
 - **Main Fuse & Contactors** — overcurrent and isolation protection.
-- **ND72450 Controller** — handles motor control, throttle input, and regenerative braking.
-- **Throttle Sensor** — hall effect type.
+- **ND72450 Controller** — handles motor control and throttle input.
+- **Throttle Sensor** — 0-5V sensor.
 - **BMS (Battery Management System)** — monitors cell voltages and prevents overcharge/discharge.
