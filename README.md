@@ -6,7 +6,6 @@
 ## Key objectives include:
 - Designing a compact and robust electric drive system.
 - Implementing efficient power delivery and thermal management.
-- Integrating data acquisition for speed, current, and voltage.
 - Ensuring safe operation through system protection and proper wiring.
 
 ---
