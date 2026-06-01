@@ -23,9 +23,9 @@
 
 ---
 
-## Expectations
-- **Top Speed (est.)** ~60–80 km/h
-- **Weight (est.)**  ~100–120 kg including driver
+## Parameters
+- **Top Speed** 80 km/h
+- **Weight** 100–120 kg including driver
 
 ---
 
